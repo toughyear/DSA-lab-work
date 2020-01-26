@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1579199943 source:c:\users\rajeev singh naruka\downloads\dsa labs\lab 2\experiment\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+
+1579199927 c:\users\rajeev singh naruka\downloads\dsa labs\lab 2\experiment\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+
+1579199681 source:c:\users\rajeev singh naruka\downloads\dsa labs\lab 2\experiment\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+
